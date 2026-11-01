@@ -25,6 +25,8 @@
 }
 
 .fofo4 {
+    display: flex;
+    align-items: center;
     font-size: 26px;
     color: #232332;
 }
@@ -733,4 +735,172 @@
     height: 40px;
     border: none;
     border-radius: 2px;
+}
+.fofo216 {
+    width: 100%;
+    background-color: #1f2029;
+}
+
+.fofo217 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 50px 340px;
+}
+
+.fofo218 {
+    width: 280px;
+}
+
+.fofo219 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.fofo220 {
+    margin-bottom: 30px;
+    font-size: 11px;
+    color: #9a9aa5;
+}
+
+.fofo221 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.fofo222,
+.fofo223,
+.fofo224,
+.fofo225,
+.fofo226,
+.fofo227 {
+    width: 16px;
+    height: 16px;
+}
+
+.fofo228,
+.fofo235,
+.fofo242 {
+    width: 150px;
+}
+
+.fofo250 {
+    width: 260px;
+}
+
+.fofo229,
+.fofo236,
+.fofo243,
+.fofo251 {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.fofo230,
+.fofo231,
+.fofo232,
+.fofo233,
+.fofo234,
+.fofo237,
+.fofo238,
+.fofo239,
+.fofo240,
+.fofo241 {
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: #9a9aa5;
+}
+
+.fofo244,
+.fofo247 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+.fofo245,
+.fofo248 {
+    width: 14px;
+    height: 14px;
+}
+
+.fofo246,
+.fofo249 {
+    font-size: 14px;
+    color: #9a9aa5;
+}
+
+.fofo252 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 180px;
+    height: 36px;
+    padding: 0 12px;
+    border: 1px solid #3b3c48;
+    border-radius: 2px;
+    background-color: #2a2b37;
+}
+
+.fofo253 {
+    width: 120px;
+    border: none;
+    background-color: transparent;
+    font-size: 11px;
+    color: #ffffff;
+}
+.fofo254 {
+    width: 12px;
+    height: 10px;
+}
+
+.fofo255 {
+    width: 180px;
+    margin-top: 12px;
+    font-size: 9px;
+    color: #9a9aa5;
+}
+
+.fofo256 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 340px;
+    background-color: #2a2b37;
+}
+
+.fofo257 {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.fofo258,
+.fofo260 {
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.fofo259 {
+    width: 14px;
+    height: 14px;
+}
+
+.fofo261 {
+    font-size: 11px;
+    color: #cccccc;
+}
+.fofo262 {
+    width: 22px;
+    height: 22px;
+}
+.fofo263 {
+    width: 22px;
+    height: 22px;
 }
