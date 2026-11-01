@@ -429,3 +429,95 @@
     height: 400px;
     flex-shrink: 0;
 }
+.fofo123 {
+    width: 100%;
+    padding: 100px 340px;
+    background-color: #f4f5f7;
+}
+
+.fofo124 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.fofo126 {
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #232332;
+}
+
+.fofo127 {
+    font-size: 40px;
+    color: #232332;
+}
+
+.fofo128 {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.fofo129 {
+    width: 18px;
+    height: 18px;
+}
+
+.fofo130 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: #ff4040;
+}
+
+.fofo131 {
+    width: 18px;
+    height: 18px;
+}
+.fofo132 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.fofo133,
+.fofo137,
+.fofo141,
+.fofo145 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 285px;
+}
+
+.fofo134,
+.fofo138,
+.fofo142,
+.fofo146 {
+    width: 285px;
+    height: 340px;
+    background-color: #ffd02b;
+}
+
+.fofo135,
+.fofo139,
+.fofo143,
+.fofo147 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #232332;
+}
+
+.fofo136,
+.fofo140,
+.fofo144,
+.fofo148 {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #666666;
+}
