@@ -112,3 +112,75 @@
     width: 380px;
     height: 350px;
 }
+.fofo22 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 210px;
+}
+
+.fofo23 {
+    width: 440px;
+    height: 350px;
+}
+
+.fofo24 {
+    width: 240px;
+}
+
+.fofo25 {
+    margin-bottom: 8px;
+    font-size: 11px;
+    color: #232332;
+}
+
+.fofo26 {
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #232332;
+}
+
+.fofo27 {
+    margin-bottom: 20px;
+}
+
+.fofo28,
+.fofo31,
+.fofo34,
+.fofo37,
+.fofo40,
+.fofo43 {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.fofo29,
+.fofo32,
+.fofo35,
+.fofo38,
+.fofo41,
+.fofo44 {
+    width: 12px;
+    height: 12px;
+    margin-top: 4px;
+}
+
+.fofo30,
+.fofo33,
+.fofo36,
+.fofo39,
+.fofo42,
+.fofo45 {
+    font-size: 12px;
+    color: #4a4a5a;
+}
+
+.fofo46 {
+    padding: 11px 20px;
+    border: none;
+    border-radius: 2px;
+    background-color: #ff4f1f;
+    color: #ffffff;
+    font-size: 11px;
+}
