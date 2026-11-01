@@ -521,3 +521,172 @@
     font-size: 14px;
     color: #666666;
 }
+.fofo149 {
+    padding: 100px 340px;
+}
+
+.fofo150 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.fofo152 {
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #232332;
+}
+
+.fofo153 {
+    font-size: 40px;
+    color: #232332;
+}
+
+.fofo154 {
+    padding: 16px 40px;
+    border: none;
+    border-radius: 2px;
+    background-color: #ff4f1f;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.fofo155 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.fofo156,
+.fofo175,
+.fofo194 {
+    width: 393px;
+}
+
+.fofo157,
+.fofo176,
+.fofo195 {
+    position: relative;
+    width: 393px;
+    height: 301px;
+}
+
+.fofo158,
+.fofo177,
+.fofo196 {
+    width: 393px;
+    height: 301px;
+    border-radius: 4px;
+}
+
+.fofo159,
+.fofo178,
+.fofo197 {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    background-color: #ffffff;
+}
+
+.fofo160,
+.fofo179,
+.fofo198 {
+    width: 14px;
+    height: 14px;
+}
+
+.fofo161,
+.fofo180,
+.fofo199 {
+    font-size: 12px;
+    color: #232332;
+}
+
+.fofo162,
+.fofo181,
+.fofo200 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+}
+
+.fofo163,
+.fofo182,
+.fofo201 {
+    font-size: 12px;
+    color: #666666;
+}
+
+.fofo164,
+.fofo167,
+.fofo183,
+.fofo186,
+.fofo202 {
+    font-size: 12px;
+    color: #aaaaaa;
+}
+
+.fofo165,
+.fofo168,
+.fofo184,
+.fofo187,
+.fofo203 {
+    width: 14px;
+    height: 14px;
+}
+
+.fofo166,
+.fofo169,
+.fofo185,
+.fofo188,
+.fofo204 {
+    font-size: 12px;
+    color: #666666;
+}
+
+.fofo170,
+.fofo189,
+.fofo205 {
+    margin-bottom: 14px;
+    font-size: 18px;
+    color: #232332;
+}
+
+.fofo171,
+.fofo190,
+.fofo206 {
+    margin-bottom: 16px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.fofo172,
+.fofo191,
+.fofo207 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.fofo173,
+.fofo192,
+.fofo208 {
+    font-size: 14px;
+    color: #232332;
+}
+
+.fofo174,
+.fofo193,
+.fofo209 {
+    width: 20px;
+    height: 14px;
+}
